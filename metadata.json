@@ -1,0 +1,14 @@
+{
+  "name": "greg-zabbixagent",
+  "version": "0.1.0",
+  "author": "Grzegorz Kurkowiak",
+  "summary": "Zabbix agent installation puppet module",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
